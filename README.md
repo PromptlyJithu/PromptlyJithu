@@ -7,18 +7,6 @@ I'm Learning to build end-to-end AI applications, focusing on machine learning a
 
 ---
 
-## 🛠 Full Tech Stack
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Backend** | FastAPI, PostgreSQL, Redis |
-| **RAG** | LangChain, OpenAI API |
-| **ML** | NumPy, scikit-learn |
-| **Frontend** | React, TailwindCSS |
-| **Operations** | Docker Compose, GitHub Actions |
-| **Evaluation** | Pytest |
-
----
 
 > *I don't just list these; I'm actively using them in my current repos.*
 
