@@ -5,10 +5,6 @@
 
 I'm Learning to build end-to-end AI applications, focusing on machine learning and production-ready systems.
 
----
-
-
-> *I don't just list these; I'm actively using them in my current repos.*
 
 ---
 
